@@ -7,4 +7,6 @@ Here I go, here I go, here I go again. Ok then chillin. I built this simple site
 
 I'm done for now. Was it worth it? I don't know. It wasn't a YUUUUGE undertaking, but there are plenty of services that would have done all this for me. It took me about three hours. 
 
-Next up: *shameless self promotion!*
+Next up: Re-route this site to markjasonstanton.com, and figure out what it's going to say.
+
+After that: *shameless self promotion!*
