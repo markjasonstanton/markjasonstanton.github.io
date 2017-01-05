@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where was I?"
-date: 2016-01-05
+date: 2017-01-05
 ---
 Doing a quick test to remember how to post. 
 Posting this with the Git Hub Mac App and the Adobe Brackets editor. 
